@@ -164,17 +164,6 @@ Take a screenshot of the output of the command: ```packer --version```
 
 ![packer](images/packer.jpg "packer")
 
-### Oh-My-Git Tutorial
-
-Download the proper [Oh My Git! tutorial](https://ohmygit.org/ "webpage for oh my git") the program runs as a self contained executable on your system (Windows Mac or Linux).
-
-Complete the tutorial and take screenshots of the completed sections (may need to take a few shots as the there are many sections).
-
-This Git tutorial is a good refresher for those who need it and a great introduction for those new to Version Control and need to learn it.
-
-### Create and Push your Readme.md
-
-In this step you will clone the Private GitHub repo you have been provided with by the professor (you received an invite email to it) to your local system.  In the root of this repo you will create a file named `Readme.md` and a folder named **images**. This `Readme.md` will contain the elements below written in Markdown. This is a good [Markdown cheat-sheet reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown cheatsheet").
 
 The document will include:
 
